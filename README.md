@@ -4,20 +4,23 @@
 <a href="https://alder-talon-aab.notion.site/SW-7336ab2bec9740239e6368c2dc46fc9a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/donny1848@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-🌱저는 현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
+
+저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
+
+🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
 
 
 🔭가장 최근에는
 <a href="https://github.com/NetRoomManager/NetroomManager" target="_blank">피씨방관리프로그램</a> 
-프로젝트를 진행했었습니다.
+프로젝트를 진행습니다.
 
-항상 새로운 기술과 도전을 사랑하며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 공부할 계획입니다.
+새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
 
-저는 신입 백엔드 개발자로 취직을 준비하고 있으며,
-더 나은 개발자가 되기위해 열심히 공부하고 노력하고 있습니다.
 
-꾸준히 노력하여 최고의 개발자가 되겠습니다.
+알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트에서 [알고리즘 문제풀이](https://github.com/Employment-Study/Algorithm_Study/tree/LeeBG)도 조금씩 풀고 있습니다.
 
+더 나은 개발자가 되기위해 열심히 배우고 있습니다.
+꾸준히 노력하여 좋은 개발자가 되겠습니다.
 
 감사합니다!
 
@@ -46,7 +49,7 @@
 
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black"/>
+<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
@@ -56,7 +59,9 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
 
@@ -79,6 +84,10 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 </div>
+
+<br/>
+<br/>
+<br/>
 
 ![LeeBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeBG&show_icons=true&theme=radical)
 
