@@ -12,7 +12,7 @@
 
 🔭가장 최근에는
 <a href="https://github.com/NetRoomManager/NetroomManager" target="_blank">피씨방관리프로그램</a> 
-프로젝트를 진행습니다.
+프로젝트를 진행했습니다.
 
 새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
 
