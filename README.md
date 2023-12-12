@@ -5,6 +5,7 @@
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/donny1848@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
+
 저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
 
 🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
