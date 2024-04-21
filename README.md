@@ -9,8 +9,8 @@
 
 
 
-🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 학습하고 있습니다.
-🌱배운 내용을 토대로 [학습관리시스템](https://github.com/choiyuran/Simple_LMS) 팀 프로젝트를 진행하고 있습니다.
+🌱현재 [자바CodingTest/SQL공부](https://github.com/LeeBG/JavaCodingTest)를 학습하고 있습니다.
+🌱배운 내용을 토대로 [학습관리시스템](https://github.com/choiyuran/Simple_LMS) 팀 프로젝트를 완료했으며 배포 후 개선 중입니다.
 
 
 🔭가장 최근에는
