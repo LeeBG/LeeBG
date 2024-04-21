@@ -10,14 +10,15 @@
 
 
 🌱현재 [자바CodingTest/SQL공부](https://github.com/LeeBG/JavaCodingTest)를 학습하고 있습니다.
-🌱배운 내용을 토대로 [학습관리시스템](https://github.com/choiyuran/Simple_LMS) 팀 프로젝트를 완료했으며 배포 후 개선 중입니다.
+🌱 가장 최근에는 배운 내용을 토대로 [학습관리시스템](https://github.com/choiyuran/Simple_LMS) 팀 프로젝트를 완료했으며 배포 후 개선 중입니다.
 
 
-🔭가장 최근에는
+🔭
+JPA + MyBatis를 사용한
 <a href="https://github.com/NetRoomManager/NetroomManager" target="_blank">피씨방관리프로그램</a> 
 프로젝트를 진행했습니다.
 
-새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
+새로운 기술과 도전을 시도하고 있으며, 지금은Express.js, Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획을 가지고 있습니다.
 
 
 알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트에서 [알고리즘 문제풀이](https://github.com/Employment-Study/Algorithm_Study/tree/LeeBG)도 조금씩 풀고 있습니다.
