@@ -8,7 +8,6 @@
 저는 신입 **백엔드 개발자** 로 취업을 준비하고 있습니다.
 
 
-
 🌱현재 [자바CodingTest/SQL공부](https://github.com/LeeBG/JavaCodingTest)를 학습하고 있습니다.
 🌱 가장 최근에는 배운 내용을 토대로 [학습관리시스템](https://github.com/choiyuran/Simple_LMS) 팀 프로젝트를 완료했으며 배포 후 개선 중입니다.
 
