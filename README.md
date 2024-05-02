@@ -87,7 +87,6 @@ JPA + MyBatis를 사용한
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 </div>
-
 <br/>
 <br/>
 <br/>
