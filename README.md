@@ -4,7 +4,7 @@
 <a href="https://blog.naver.com/donny1848" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://leebg.notion.site/d25ea256dfbc48c88ff44f44dda4a307" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/donny1848@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-https://leebg.notion.site/d25ea256dfbc48c88ff44f44dda4a307
+
 저는 신입 **백엔드 개발자** 로 취업을 준비하고 있습니다.
 
 
